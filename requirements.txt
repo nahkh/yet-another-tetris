@@ -1,0 +1,2 @@
+# Dependencies
+pygame >= 2.1.0
